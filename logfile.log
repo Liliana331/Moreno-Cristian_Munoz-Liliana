@@ -1,0 +1,11 @@
+[2024-05-21 20:13:06] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=1, numeroMatricula=98745, nombre='CRISTIAN', apellido='MORENO'}
+[2024-05-21 20:15:08] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=1, numeroMatricula=98745, nombre='CRISTIAN', apellido='MORENO'}
+[2024-05-21 20:29:05] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=1, numeroMatricula=98745, nombre='CRISTIAN', apellido='MORENO'}
+[2024-05-21 20:34:15] [ INFO ] [OdontologoEnMemoria:22] paciente guardado: Odontologo{id=1, numeroMatricula=41723, nombre='Pepito', apellido='Perez'}
+[2024-05-21 20:37:33] [ INFO ] [OdontologoDaoH2:45] Se registro el odontologo: Odontologo{id=2, numeroMatricula=78951, nombre='Homero', apellido='Simpson'}
+[2024-05-21 20:37:33] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=1, numeroMatricula=98745, nombre='CRISTIAN', apellido='MORENO'}
+[2024-05-21 20:37:33] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=2, numeroMatricula=78951, nombre='Homero', apellido='Simpson'}
+[2024-05-21 20:38:31] [ INFO ] [OdontologoDaoH2:45] Se registro el odontologo: Odontologo{id=2, numeroMatricula=78951, nombre='Homero', apellido='Simpson'}
+[2024-05-21 20:38:31] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=1, numeroMatricula=98745, nombre='CRISTIAN', apellido='MORENO'}
+[2024-05-21 20:38:31] [ INFO ] [OdontologoDaoH2:86] Odontologo listado: Odontologo{id=2, numeroMatricula=78951, nombre='Homero', apellido='Simpson'}
+[2024-05-21 20:39:22] [ INFO ] [OdontologoEnMemoria:22] paciente guardado: Odontologo{id=1, numeroMatricula=41723, nombre='Pepito', apellido='Perez'}
